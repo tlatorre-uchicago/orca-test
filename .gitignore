@@ -6,4 +6,4 @@ Orca.xcodeproj/*.pbxuser
 Orca.xcodeproj/project.xcworkspace
 Orca.xcodeproj/xcuserdata
 .svn/*
-
+DerivedData*
